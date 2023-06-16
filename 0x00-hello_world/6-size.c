@@ -1,5 +1,8 @@
 #include <stdio.h>
 int main(void)
+	/*
+	 *description
+	 * */
 {
 	printf("Size of a char: %u byte(s)\n", sizeof(char));
 	printf("Size of an int: %u byte(s)\n", sizeof(int));
